@@ -7,7 +7,7 @@ This project demonstrates how operating systems manage memory frames, handle pag
 ## 👨‍💻 Author Information
 
 * **Name:** Siddh Jain
-* **Roll Number:** BTE25DTA000039
+* **Enrollment No. :** BTE25DTA000039
 * **Course:** B.Tech — Data Analytics
 * **Project:** Operating Systems Lab
 * **Institution:** SAGE University
